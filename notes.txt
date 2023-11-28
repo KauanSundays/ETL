@@ -7,3 +7,6 @@ UM SISTEMA QUE TENHA A CAPACIDADE DE LER DIFERENTES FORMATOS DE ARQUIVOS E TIPOS
 E TRANSPORTAR PARA OUTROS AMBIENTES.
 
 na pasta drivers, criei 2 arquivos com o mesmo nome com diferenças para teste
+
+como rodar um teste?
+    pytest -s -v src/drivers/http_requester_test.py
